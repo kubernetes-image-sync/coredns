@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/coredns:1.11.1
+FROM registry.k8s.io /coredns:1.11.1
